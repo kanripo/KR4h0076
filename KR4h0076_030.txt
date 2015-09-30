@@ -1,0 +1,24 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 天下同文集
+#+DATE: 2015-08-25 00:35:11.346639
+#+PROPERTY: ID KR4h0076
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十
+<pb:KR4h0076_WYG_030-1a>¶
+欽定四庫全書¶
+　天下同文集巻三十　　　元　周南瑞　編¶
+　　頌(闕/)¶
+　¶
+　¶
+　¶
+　¶
+　¶
+<pb:KR4h0076_WYG_030-1b>¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　天下同文集巻三十¶
